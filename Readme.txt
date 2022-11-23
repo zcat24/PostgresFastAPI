@@ -13,5 +13,10 @@ E importamos lo siguiente:
 
 Para crear el requirements.txt utilizo el siguiente comando: pip3 freeze > requirements.txt
 
+Luego creamos el Modelo para eso creamos un archivo llamado model
+
+Luego creamos el Crud
+
+
 
 

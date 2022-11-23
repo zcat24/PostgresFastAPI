@@ -12,3 +12,6 @@ venv.bak/
 #python
 .cache
 __pycache__
+
+# PyCharm
+.idea/
